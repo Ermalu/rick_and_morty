@@ -1,0 +1,10 @@
+.card {
+  border: 1px solid green;
+  background-color: aquamarine;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
